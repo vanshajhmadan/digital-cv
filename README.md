@@ -44,8 +44,8 @@ Created an IOT device to
 
 ## 💬 Languages
 
-**English**: Native <br>
-**German**: A2.2
+**English** <br>
+**Hindi**
 <br><br>
 
 ## 👩🏼‍🎓 Education
